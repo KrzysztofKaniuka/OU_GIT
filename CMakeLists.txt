@@ -3,4 +3,4 @@ project(OU_GIT C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(OU_GIT main.c)
+add_executable(OU_GIT 01.c)
